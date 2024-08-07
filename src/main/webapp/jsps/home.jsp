@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>This is CICI end-to Pipeline</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/Meraj_Photo.JPG" rel="icon">
 </head>
 </head>
 <body>
